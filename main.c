@@ -11,4 +11,7 @@ int main() {
     	printf("Size of float: %ld bytes\n", sizeof(floatType));
     	printf("Size of double: %ld bytes\n", sizeof(doubleType));
     	printf("Size of char: %ld byte\n", sizeof(charType));
+
+	// This is the next comit 
+	printf("Test 2 Ok \n");
 }
